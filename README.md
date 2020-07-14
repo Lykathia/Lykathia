@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome, Traveler
 
-<!--
-**Lykathia/Lykathia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Keybase](https://img.shields.io/keybase/pgp/lykathia?style=flat-square&color=222222&label=lykathia&logo=keybase)](https://keybase.io/lykathia)
+[![Twitter](https://img.shields.io/badge/-%40Lykathia-222222?style=flat-square&logo=twitter)](https://twitter.com/Lykathia/)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1951954?color=222222&label=lykathia&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/1951954/lykathia)
+[![Linkedin](https://img.shields.io/badge/-lykathia-222222?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/lykathia/)
 
-Here are some ideas to get you started:
+My name is Evan. I am an obsessive problem solver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Software Architect**  `//` **Hacker**  `//`  **Wargamer**  `//`  **Musician**  `//`  **Brewer**  `//`  **Pit Master**
+
+You can find my infrequently updated ramblings at: https://exitiumonline.com
